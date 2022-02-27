@@ -276,5 +276,6 @@ bindsym $mod+n exec firefox
 
 # start a pcmanfm
 bindsym $mod+p exec pcmanfm
-
+#     >>teclado<<
+exec_always setxkbmap -layout la-latin1
 
